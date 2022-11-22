@@ -649,3 +649,28 @@ Results: [1] "GHW BUsh" "Clinton" "Obama"
 - [x] [1]TRUE TRUE FALSE
 - [ ] [1]FALSE FALSE TRUE
 - [ ] [1]NA NA NA
+
+#### Q60. Y is a data structure in R. It contains the letter c in its first row and the number 3 in its second column. What is the most accurate description of Y?
+
+- [ ] Y is an atomic vector.
+- [ ] Y is an array.
+- [ ] Y is a data frame.
+- [ ] Y is a matrix.
+
+#### Q61. Consider these four English statements. When you build a statistical model in R, you use an operator instead of the words between X and Y. What is that operator?
+#### X is function of Y.
+#### X depends on Y.
+#### X is attributable to Y.
+#### X is explained by Y.
+
+- [ ] #
+- [ ] ==
+- [ ] ~
+- [ ] ^
+
+#### Q62. How do you get documentation of an installed and loaded R package named dplyr and packages with dplyr as an alias?
+
+- [ ] ?? dplyr
+- [ ] Press the F1 key.
+- [ ] ? dplyr
+- [ ] help(dplyr)
