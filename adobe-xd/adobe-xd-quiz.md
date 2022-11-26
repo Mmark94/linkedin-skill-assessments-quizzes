@@ -158,3 +158,27 @@
 - \[ ] Drag individual images into the grid.
 - \[ ] Ensure that all images are in the same format.
 - \[x] Import the images and rearrange them in the Repeat Grid.
+
+
+#### Q22. What is the maximum number of interactions that can be applied to a selected element?
+
+- \[ ] one
+- \[ ] two
+- \[ ] three
+- \[ ] four
+
+#### Q23. What is the trigger used to put an object in motion?
+
+- \[ ] drag
+- \[ ] double tap
+- \[ ] swipe
+- \[ ] tap
+
+
+#### Q24. What do overlays require?
+
+- \[x] a separate artboard
+- \[ ] a keyboard element
+- \[ ] an action
+- \[ ] a trigger
+
